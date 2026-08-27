@@ -10,7 +10,9 @@ Grupo Z6 · UAGRM · Facultad de Ciencias de la Computación y Telecomunicacione
 
 | # | Tema | Tecnología |
 |---|------|------------|
-| [Lab #1](./lab%231/) | Teoría de Errores | Python · Manim |
+| [Laboratorio_1](./Laboratorio_1/)| Teoría de Errores | Python · Manim |
+| [Laboratorio_2](./Laboratorio_2/)| Palalelogramo | Python · Manim |
+
 
 ---
 
@@ -18,10 +20,11 @@ Grupo Z6 · UAGRM · Facultad de Ciencias de la Computación y Telecomunicacione
 
 ```
 Physics-1/
-└── lab#1/
+└── laboratorio_1/
     ├── main.py
     ├── README.md
     └── .gitignore
+    
 ```
 
 Cada laboratorio tiene su propia carpeta con su código y documentación.
